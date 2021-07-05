@@ -39,6 +39,7 @@ h1, h2, h3, h4, h5, h6 {
 
 /*======= start navbar section =======*/
 header .navbar{
+    background-color: #37517e;
     transition: .5s;
     z-index: 99;
 }
